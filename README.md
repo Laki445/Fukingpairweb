@@ -1,1 +1,1 @@
-# Fukingpairweb
+# PAIR-WEB-SC
